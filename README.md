@@ -7,8 +7,8 @@
 <br/>
 <br/>
 
-👩‍💻 Desenvolvedora de Software em construção;<br/>
-🌱 Dev Jr mobile Android;<br/>
+👩‍💻 Desenvolvedora mobile Android;<br/>
+🌱 Me aprofundando em Kotlin;<br/>
 👯‍♀ Sozinhos vamos rápido, acompanhados vamos longe;<br/>
 👾 Apaixonada por tecnologia;<br/>
 🏋️‍♀️ Praticante de musculação;<br/>
