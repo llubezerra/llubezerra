@@ -11,7 +11,6 @@
 🌱 Me aprofundando em Kotlin;<br/>
 👯‍♀ Sozinhos vamos rápido, acompanhados vamos longe;<br/>
 👾 Apaixonada por tecnologia;<br/>
-🏋️‍♀️ Praticante de musculação;<br/>
 💻 Possuo experiência profissional em outras áreas;<br/>
 ⚡ Vamos melhorar o mundo através de novas tecnologias?<br/> 
 
