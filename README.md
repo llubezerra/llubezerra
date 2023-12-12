@@ -8,11 +8,10 @@
 <br/>
 
 👩‍💻 Desenvolvedora mobile Android;<br/>
-🌱 Me aprofundando em Kotlin;<br/>
+🌱 Kotlin;<br/>
 👯‍♀ Sozinhos vamos rápido, acompanhados vamos longe;<br/>
 👾 Apaixonada por tecnologia;<br/>
-💻 Possuo experiência profissional em outras áreas;<br/>
-⚡ Vamos melhorar o mundo através de novas tecnologias?<br/> 
+💻 Buscando melhorar o mundo através de novas tecnologias!<br/> 
 
 <br/>
 Tecnologias e Ferramentas que estou aprendendo / utilizando:
