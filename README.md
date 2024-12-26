@@ -11,7 +11,7 @@
 🌱 Kotlin;<br/>
 👯‍♀ Sozinhos vamos rápido, acompanhados vamos longe;<br/>
 👾 Apaixonada por tecnologia;<br/>
-💻 Buscando melhorar o mundo através de novas tecnologias!<br/> 
+💻 Buscando ajudar a melhorar um pouquinho o mundo!<br/> 
 
 <br/>
 Tecnologias e Ferramentas que estou aprendendo / utilizando:
